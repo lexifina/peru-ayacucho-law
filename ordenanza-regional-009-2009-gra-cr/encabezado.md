@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL
+Nº 009-2009-GRA/CR
+Ayacucho, 12 de mayo de 2009 EL CONSEJERO DELEGADO DEL CONSEJO
+REGIONAL DE AYACUCHO
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Ayacucho, en Sesión Ordinaria Descentralizada de fecha 6 de mayo de 2009, trató el tema relacionado a la ampliación de número de integrantes del Equipo Técnico para la ejecución de las actividades del Proceso del Presupuesto Participativo 2010; y,
+CONSIDERANDO:
+Que, mediante Ordenanza Regional Nº 001-2009-GRA/CR, de fecha 9 de febrero de 2009, se aprueba la Conformación del Equipo Técnico encargado de conducir y brindar el soporte técnico durante el Proceso del Presupuesto Participativo 2010, integrado por un coordinador y nueve miembros;
+Que, mediante Oficio Nº 263-2009-GRA/PRES, el Señor Presidente del Gobierno Regional presenta ante el Consejo Regional el Proyecto de Ordenanza Regional “Propuesta de Ampliación del numero de integrantes que conforman el Equipo Técnico encargado de conducir y brindar el soporte técnico durante el Proceso del Presupuesto Participativo 2010”; iniciativa presentada por la Gerencia Regional de Planeamiento, Presupuesto y Acondicionamiento Territorial, en cumplimiento al Acuerdo aprobado por el Consejo de Coordinación Regional – CCR en reunión de fecha 30 de marzo de 2009, donde se propone la ampliación de representantes de la Sociedad Civil en el Equipo Técnico; con el Dictamen respectivo se somete a consideración del Pleno del Consejo Regional;
+Que, mediante el Comunicado Nº 026-2008-EF/76.01, el Ministerio de Economía y Finanzas establece el cronograma de ejecución de actividades de las Fases del Presupuesto Participativo correspondiente al Año 2010, el cual es de cumplimiento obligatorio por los Gobiernos Regionales;
+Que, la Ley Nº 28056 – Ley Marco del Presupuesto Participativo, establece que el Proceso del Presupuesto Participativo es un mecanismo de asignación equitativa, racional, eficiente, eficaz y transparente de los recursos públicos, que fortalece las relaciones del Estado y la sociedad civil;
+Que, el literal c) del artículo 15º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, establece que es atribución del Consejo Regional misión del Gobierno Regional organizar y conducir la gestión pública regional de acuerdo a sus competencias exclusivas, compartidas y delegadas, en el marco de las políticas nacionales y sectoriales, para contribuir al desarrollo integral y sostenible de la región;
+Por lo que en uso de las facultades conferidas por la Ley Nº 27680 - Ley de Reforma Constitucional, Ley Nº 27783 Ley de Bases de Descentralización, Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias Ley Nº 27902, Ley Nº 29053 y Ley Nº 28968; el Consejo Regional con el voto unánime de sus miembros aprobó la siguiente:
+ORDENANZA REGIONAL
