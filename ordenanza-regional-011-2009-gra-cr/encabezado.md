@@ -1,0 +1,15 @@
+ORDENANZA REGIONAL
+Nº 011-2009-GRA/CR
+Ayacucho, 12 de junio de 2009
+EL CONSEJERO DELEGADO DEL CONSEJO
+REGIONAL DE AYACUCHO
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Ayacucho, en Sesión Ordinaria de fecha 08 de junio de 2009, trató el tema relacionado al Cuadro para Asignación del Personal – CAP, Presupuesto Analítico de Personal – PAP y Escala Remunerativa del Programa Regional de Irrigaciones y Desarrollo Rural Integrado – PRIDER; y
+CONSIDERANDO:
+Que, mediante Oficio Nº 288-2009-GRA/PRES, el Señor Presidente del Gobierno Regional remite ante el Consejo Regional la propuesta del Cuadro para Asignación de Personal – CAP, Presupuesto Analítico de Personal – PAP y Escala Remunerativa del Programa Regional de Irrigaciones y Desarrollo Rural Integrado – PRIDER, acompañado con las respectivas opiniones Técnico y Legal emitidos por la Sub Gerencia de Desarrollo Institucional e Informática, Oficina de Recursos Humanos y la Oficina Regional de Asesoría Jurídica respectivamente; con el Dictamen elaborado por la Comisión de Planeamiento, Presupuesto, Acondicionamiento Territorial y Desarrollo Institucional del Consejo Regional, sometido a consideración del Pleno del Consejo Regional;
+Que, mediante Ordenanza Regional Nº 003-2009-GRA/CR, se aprueba, en forma excepcional, el Organigrama Estructural y el Manual de Operaciones del Programa Regional del Programa Regional de Irrigaciones y Desarrollo Rural Integrado – PRIDER, y que resulta pertinente su implementación con la aprobación del Cuadro para Asignación de Personal - CAP;
+Que, el artículo 15º del Decreto Supremo Nº 43-2004-PCM, establece que los Cuadros para Asignación de Personal – CAP, deben ser aprobados por Ordenanza Regional, en el caso de los Gobiernos Regionales;
+Que, el literal a) del artículo 15º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales señala que es atribución del Consejo Regional aprobar, modificar o derogar las normas que regulen o reglamenten los asuntos y materias de competencia y funciones del Gobierno Regional;
+Que, el artículo 45º de la Ley Nº 27867, Ley Orgánica de Gobiernos Regionales, establece que las funciones generales de los Gobiernos Regionales se ejercerán con sujeción al ordenamiento jurídico establecido por la Constitución Política del Perú, la Ley de Bases de Descentralización y demás Leyes de la República; y el literal a) del artículo acotado señala que es función normativa y reguladora del Gobierno Regional la elaboración y aprobación de normas de alcance regional, regulando los servicios de su competencia en concordancia con los literales a) y b) del artículo 4º de la Ley Nº 27902, Ley que modifica la Ley Orgánica de Gobiernos Regionales;
+Por lo que en uso de las facultades conferidas por la Ley Nº 27680 - Ley de Reforma Constitucional, Ley Nº 27783 Ley de Bases de Descentralización, Ley Nº 27867, Ley Orgánica de Gobiernos Regionales y sus modificatorias Ley Nº 27902, Ley Nº 29053 y Ley Nº 28968; el Consejo Regional con el voto mayoritario de sus miembros aprobó la siguiente:
+ORDENANZA REGIONAL
