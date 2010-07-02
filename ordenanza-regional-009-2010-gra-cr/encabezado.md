@@ -1,0 +1,14 @@
+ORDENANZA REGIONAL
+Nº 009-2010-GRA/CR
+Ayacucho, 27 de abril de 2010
+EL CONSEJO REGIONAL DE AYACUCHO
+POR CUANTO:
+El Consejo Regional del Gobierno Regional de Ayacucho, en Sesión Ordinaria de Consejo Regional de fecha 12 de abril de 2010, trató el tema relacionado a la Creación y Conformación del Consejo Regional de Fomento Artesanal – COREFAR Ayacucho; y,
+CONSIDERANDO:
+Que, mediante Oficio Nº 0743-2009-GRA/PRES, el señor Presidente del Gobierno Regional de Ayacucho remite ante el Consejo Regional el Proyecto de Ordenanza Regional sobre la Creación y Conformación del Consejo Regional de Fomento Artesanal – COREFAR Ayacucho, iniciativa Regional que acompaña el Informe Técnico Nº 106-2009-GRA/GG-GRDE-SGDS-MAGV de la Gerencia Regional de Desarrollo Económico, Opinión Técnica Nº 001-2009—GRA/DIRCETUR-DA de la Dirección Regional de Comercio Exterior y Turismo – DIRCETUR y la Opinión Legal Nº 05-2010-GRA/ORAJ-D-CALL de la Oficina Regional de Asesoría Jurídica del Gobierno Regional de Ayacucho, con el Dictamen Nº 001-2010-GRA-CR/ CPEPYMESTA de la Comisión de Promoción del Empleo, PYMES, Turismo y Artesanía del Consejo Regional, se sometió a consideración del Pleno del Consejo Regional;
+Que, conforme establece el Artículo 20º de la Constitución Política del Perú, los Colegios Profesionales son instituciones autónomas con personalidad de derecho público. Prescribiendo que la ley señala los casos en que la colegiatura es obligatoria. Los Colegios Profesionales se rigen por la ley de creación, Estatutos y Reglamentos;
+Que, el Inc. a) del Art. 15º de la Ley Nº 27867, el Consejo Regional tiene atribuciones para aprobar, modificar o derogar las normas que regulan o reglamenten los asuntos y materia de competencia;
+Que, el artículo 64º de la Ley Nº 27867 – Ley Orgánica de Gobiernos Regionales, modificado por Ley Nº 27902, establece que son funciones específicas de los Gobiernos Regionales en materia de artesanía el formular , aprobar, ejecutar, evaluar, dirigir, controlar y administrar las políticas en materia de desarrollo artesanal, en concordancia con las políticas nacionales y los planes sectoriales;
+Que, el numeral 12.3 del artículo 12) del Capítulo III de la Ley Nº 29073 – Ley del Artesano y del Desarrollo de la Actividad Artesanal, establece que los Gobiernos Regionales a través de la Direcciones Regionales de Comercio Exterior y Turismo, contaran con un Consejo Regional de Fomento Artesanal - COREFAR, como un órgano de coordinación entre el sector público y privado, la composición y funciones son establecidas por resolución regional;
+Por lo que, en uso de las atribuciones facultades conferidas por la Constitución Política del Perú y la Ley Orgánica de Gobiernos Regionales, Ley Nº 27867 sus modificatorias Ley Nº 27902, Ley Nº 28013, Ley Nº 28968 y Ley Nº 29053; el Consejo Regional con el voto unánime de sus miembros aprobó la siguiente:
+ORDENANZA REGIONAL
