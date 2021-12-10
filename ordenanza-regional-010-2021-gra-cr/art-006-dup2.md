@@ -1,0 +1,2 @@
+Artículo Sexto.- ENCARGAR a la Dirección Regional de Salud de Ayacucho (DIRESA), el financiamiento requerido para la implementación y funcionamiento del Consejo Regional de Salud y de su Secretaría de Coordinación, teniendo presente lo dispuesto en el artículo 2º del propio Decreto Supremo Nº 032-2020-SA.
+Artículo Séptimo.- ENCARGAR a la Gerencia Regional de Desarrollo Social la supervisión, seguimiento y monitoreo de las acciones contenidas en la presente disposición, debiendo elevar informe de forma semestral al Consejo Regional de Ayacucho.
