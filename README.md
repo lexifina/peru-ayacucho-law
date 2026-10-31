@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-149 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+189 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -162,6 +162,46 @@ la Dirección Regional de Salud Ayacucho - DIRESA | in force 2 January 2021 |
 | `ordenanza-regional-001-2013-gra-cr/` | Ordenanza Regional N° 001-2013-GRA/CR: Declaran de Prioridad la Lucha contra la Desnutrición Crónica Infantil en menores de 5 años y la implementación del Progr… | in force 22 March 2013 |
 | `ordenanza-regional-014-2012-gra-cr/` | Ordenanza Regional N° 014-2012-GRA/CR: Aprueban Estructura Orgánica y Reglamento de Organización y Funciones de la Dirección Regional de Producción - 2012 | in force 11 February 2013 |
 | `ordenanza-regional-032-2012-gra-cr/` | Ordenanza Regional N° 032-2012-GRA/CR: Aprueban Plan de Mediano Plazo en Educación 2012 - 2016 del Gobierno Regional de Ayacucho | in force 31 January 2013 |
+| `ordenanza-regional-018-2012-gra-cr/` | Ordenanza Regional N° 018-2012-GRA/CR: Aprueban la creación de la Oficina Regional de Atención a las Personas con Discapacidad - OREDIS del Gobierno Regional de… | in force 2 November 2012 |
+| `ordenanza-regional-020-2012-gra-cr/` | Ordenanza Regional N° 020-2012-GRA/CR: Aprueban Plan Regional de Cooperación Internacional no Reembolsable 2012-2015 | in force 15 September 2012 |
+| `ordenanza-regional-016-2012-gra-cr/` | Ordenanza Regional N° 016-2012-GRA/CR: Declaran de necesidad y prioridad regional la Promoción de Programas Regionales de Viviendas Rurales y Urbano Marginales … | in force 5 July 2012 |
+| `ordenanza-regional-013-2012-gra-cr/` | Ordenanza Regional N° 013-2012-GRA/CR: Aprueban Plan Regional de Acción Contra la Trata de Personas 2012 - 2016 y conforman la Comisión Regional Multisectorial … | in force 17 June 2012 |
+| `ordenanza-regional-030-2011-gra-cr/` | Ordenanza Regional N° 030-2011-GRA/CR: Autorizan a la Dirección Regional de Transportes y Comunicaciones de Ayacucho otorgar autorizaciones para la prestación d… | in force 15 January 2012 |
+| `ordenanza-regional-019-2011-graicr/` | Ordenanza Regional N° 019-2011-GRAICR: Modifican Ordenanza N° 033-2007-GRA/CR mediante la cual se constituyó el Consejo Regional de Lucha Contra la Pobreza y la… | in force 25 December 2011 |
+| `ordenanza-regional-029-2011-gra-cr/` | Ordenanza Regional N° 029-2011-GRA/CR: Aprueban trabajo concertado entre el Gobierno Regional y las Direcciones Regionales de Salud y Educación para la implemen… | in force 25 December 2011 |
+| `ordenanza-regional-028-2011-gra-cr/` | Ordenanza Regional N° 028-2011-GRA/CR: Crean el Consejo Regional de Trabajo y Promoción del Empleo de Ayacucho | in force 25 December 2011 |
+| `ordenanza-regional-027-2011-gra-cr/` | Ordenanza Regional N° 027-2011-GRA/CR: Aprueban Lineamientos de Política Regional de la Formación Profesional en Ayacucho | in force 25 December 2011 |
+| `ordenanza-regional-022-2011-gra-cr/` | Ordenanza Regional N° 022-2011-GRA/CR: Aprueban Cuadro para Asignación de Personal y Cuadro Nominativo de Personal de la Dirección Regional de Salud Ayacucho - … | in force 24 November 2011 |
+| `ordenanza-regional-018-2011-gra-cr/` | Ordenanza Regional N° 018-2011-GRA/CR: Aprueban la creación  y conforman el Consejo Regional de Seguridad Vial | in force 16 October 2011 |
+| `ordenanza-regional-013-2011-gra-cr/` | Ordenanza Regional N° 013-2011-GRA/CR: Crean el Consejo Regional de Derechos Humanos y Reparaciones de Ayacucho | in force 2 October 2011 |
+| `ordenanza-regional-017-2011-gra-cr/` | Ordenanza Regional N° 017-2011-GRA/CR: Aprueban Plan Estratégico Institucional del Gobierno Regional de Ayacucho 2011-2014 | in force 25 August 2011 |
+| `ordenanza-regional-015-2011-gra-cr/` | Ordenanza Regional N° 015-2011-GRA/CR: Aprueban Organigrama Estructural y Reglamento de Organización y Funciones de la Dirección Regional de Trabajo y Promoción… | in force 4 August 2011 |
+| `ordenanza-regional-010-2011-gra-cr/` | Ordenanza Regional N° 010-2011-GRA/CR: Aprueban Reglamento de Fiscalización del Consejo Regional del Gobierno Regional de Ayacucho | in force 29 June 2011 |
+| `ordenanza-regional-012-2011-graicr/` | Ordenanza Regional N° 012-2011-GRAICR: Disponen el uso obligatorio del Sombrero tipo Safari o de paño como parte del uniforme escolar en las instituciones educa… | in force 21 June 2011 |
+| `ordenanza-regional-011-2011-graicr/` | Ordenanza Regional N° 011-2011-GRAICR: Declaran como prioridad para el desarrollo social la cobertura de identificación y afiliación en el marco del Aseguramien… | in force 19 June 2011 |
+| `ordenanza-regional-026-2010-gra-cr/` | Ordenanza Regional N° 026-2010-GRA/CR: Disponen priorizar el Proyecto "Construcción Sistema Irrigación Integral Laguna Tajata: Umasi, Apongo, Raccaya, Taca y Ca… | in force 3 April 2011 |
+| `ordenanza-regional-001-2011-gra-cr/` | Ordenanza Regional N° 001-2011-GRA/CR: Aprueban denominación del Año Regional 2011 como "Año Regional del Centenario de Nacimiento de José María Arguedas Altami… | in force 5 March 2011 |
+| `ordenanza-regional-030-2010-gra-cr/` | Ordenanza Regional N° 030-2010-GRA/CR: Aprueban Cuadro para Asignación del Personal 2010 del Puericultorio Juan Andrés Vivanco Amorín , JAVA - Ayacucho 2010 | in force 3 February 2011 |
+| `ordenanza-regional-025-2010-gra-cr/` | Ordenanza Regional N° 025-2010-GRA/CR: Aprueban Organigrama Estructural y el ROF de la Casa Hogar "Juan Pablo II" de la provincia de Vilcashuamán | in force 29 December 2010 |
+| `ordenanza-regional-024-2010-gra-cr/` | Ordenanza Regional N° 024-2010-GRA/CR: Aprueban Organigrama Estructural y el ROF del Puericultorio Juan Andrés Vivanco Amorín "JAVA" Ayacucho | in force 29 December 2010 |
+| `ordenanza-regional-029-2010-gra-cr/` | Ordenanza Regional N° 029-2010-GRA/CR: Aprueban el "Plan Regional Contra la Violencia hacia la Mujer 2010-2015" | in force 15 December 2010 |
+| `ordenanza-regional-027-2010-gra-cr/` | Ordenanza Regional N° 027-2010-GRA/CR: Aprueban la creación del Sistema Regional de Prevención y Atención de la Violencia Familiar y Sexual de Ayacucho - SIREPA… | in force 15 December 2010 |
+| `ordenanza-regional-019-2010-gra-cr/` | Ordenanza Regional N° 019-2010-GRA/CR: Aprueban el Plan Regional de Igualdad de Oportunidades y Equidad de Género 2010-2020 de la Región Ayacucho | in force 15 December 2010 |
+| `ordenanza-regional-022-2010-gra-cr/` | Ordenanza Regional N° 022-2010-GRA/CR: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional Agraria Ayacucho - 2010 | in force 14 October 2010 |
+| `ordenanza-regional-013-2010-gra-cr/` | Ordenanza Regional N° 013-2010-GRA/CR: Disponen que las entidades estatales reserven no menos del 40% de sus compras a las Micros y Pequeñas Empresas del ámbito… | in force 27 August 2010 |
+| `ordenanza-regional-017-2010-gra-cr/` | Ordenanza Regional N° 017-2010-GRA/CR: Aprueban Estructura Orgánica y el Reglamento de Organización y Funciones de la Dirección Regional  de Transportes y Comun… | in force 27 August 2010 |
+| `ordenanza-regional-002-2010-gra-cr/` | Ordenanza Regional N° 002-2010-GRA/CR: Modifican Reglamento Interno del Consejo Regional de Ayacucho | in force 26 August 2010 |
+| `ordenanza-regional-008-2010-gra-cr/` | Ordenanza Regional N° 008-2010-GRA/CR: Aprueban conformación del Equipo Técnico encargado de conducir y brindar el soporte técnico durante el Proceso del Presup… | in force 29 July 2010 |
+| `ordenanza-regional-009-2010-gra-cr/` | Ordenanza Regional N° 009-2010-GRA/CR: Crean el Consejo Regional de Fomento Artesanal - COREFAR Ayacucho | in force 2 July 2010 |
+| `ordenanza-regional-021-2009-gra-cr/` | Ordenanza Regional N° 021-2009-GRA/CR: Institucionalizan el Festival Regional de la Canción Ayacuchana "Buscando Nuevos Valores" | in force 9 May 2010 |
+| `ordenanza-regional-023-2009-gra-cr/` | Ordenanza Regional N° 023-2009-GRA/CR: Crean el Consejo Regional del Arte y la Cultura Ayacuchana | in force 9 May 2010 |
+| `ordenanza-regional-029-2009-gra-cr/` | Ordenanza Regional N° 029-2009-GRA/CR: Aprueban Estructura Orgánica y el Reglamento de Organización y Funciones de la Dirección Regional de Salud - 2009 | in force 8 January 2010 |
+| `ordenanza-regional-017-2009-gra-cr/` | Ordenanza Regional N° 017-2009-GRA/CR: Aprueban Organigrama Estructural y Reglamento de Organización y Funciones del Puericultorio "Juan Andrés Vivanco Amorín" … | in force 9 October 2009 |
+| `ordenanza-regional-013-2009-gra-cr/` | Ordenanza Regional N° 013-2009-GRA/CR: Establecen disposiciones para la emisión de autorizaciones excepcionales a los vehículos de transporte interprovincial de… | in force 9 August 2009 |
+| `ordenanza-regional-005-2009-gra-cr/` | Ordenanza Regional N° 005-2009-GRA/CR: Aprueban Reglamento de Elecciones de Representantes de la Sociedad Civil ante el Consejo de Coordinación Regional - CCR d… | in force 1 July 2009 |
+| `ordenanza-regional-009-2009-gra-cr/` | Ordenanza Regional N° 009-2009-GRA/CR: Aprueban ampliación del número de integrantes del Equipo Técnico encargado de conducir y brindar el soporte técnico duran… | in force 27 June 2009 |
+| `ordenanza-regional-014-2009-gra-cr/` | Ordenanza Regional N° 014-2009-GRA/CR: Aprueban Reglamento del Proceso de Presupuesto Participativo del Gobierno Regional de Ayacucho | in force 27 June 2009 |
+| `ordenanza-regional-007-2009-gra-cr/` | Ordenanza Regional N° 007-2009-GRA/CR: Disponen conformación de Mesas de Diálogo para la Prevención y Tratamiento de Controversias Territoriales y otros casos s… | in force 1 May 2009 |
 
 ## Source
 

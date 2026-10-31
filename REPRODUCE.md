@@ -164,20 +164,60 @@ la Dirección Regional de Salud Ayacucho - DIRESA | 1 | 2021-01-02 to 2021-01-02
 | `ordenanza-regional-001-2013-gra-cr` | Ordenanza Regional N° 001-2013-GRA/CR: Declaran de Prioridad la Lucha contra la Desnutrición Crónica Infantil en menores de 5 años y la implementación del Programa de Alimentación Escolar Qali Warma en la Región Ayacucho | 1 | 2013-03-22 to 2013-03-22 |
 | `ordenanza-regional-014-2012-gra-cr` | Ordenanza Regional N° 014-2012-GRA/CR: Aprueban Estructura Orgánica y Reglamento de Organización y Funciones de la Dirección Regional de Producción - 2012 | 1 | 2013-02-11 to 2013-02-11 |
 | `ordenanza-regional-032-2012-gra-cr` | Ordenanza Regional N° 032-2012-GRA/CR: Aprueban Plan de Mediano Plazo en Educación 2012 - 2016 del Gobierno Regional de Ayacucho | 1 | 2013-01-31 to 2013-01-31 |
+| `ordenanza-regional-018-2012-gra-cr` | Ordenanza Regional N° 018-2012-GRA/CR: Aprueban la creación de la Oficina Regional de Atención a las Personas con Discapacidad - OREDIS del Gobierno Regional de Ayacucho | 1 | 2012-11-02 to 2012-11-02 |
+| `ordenanza-regional-020-2012-gra-cr` | Ordenanza Regional N° 020-2012-GRA/CR: Aprueban Plan Regional de Cooperación Internacional no Reembolsable 2012-2015 | 1 | 2012-09-15 to 2012-09-15 |
+| `ordenanza-regional-016-2012-gra-cr` | Ordenanza Regional N° 016-2012-GRA/CR: Declaran de necesidad y prioridad regional la Promoción de Programas Regionales de Viviendas Rurales y Urbano Marginales Saludables, Desarrollo Urbano y Programas de Saneamiento Básico Ambiental | 1 | 2012-07-05 to 2012-07-05 |
+| `ordenanza-regional-013-2012-gra-cr` | Ordenanza Regional N° 013-2012-GRA/CR: Aprueban Plan Regional de Acción Contra la Trata de Personas 2012 - 2016 y conforman la Comisión Regional Multisectorial de Acción Contra la Trata de Personas en Ayacucho | 1 | 2012-06-17 to 2012-06-17 |
+| `ordenanza-regional-030-2011-gra-cr` | Ordenanza Regional N° 030-2011-GRA/CR: Autorizan a la Dirección Regional de Transportes y Comunicaciones de Ayacucho otorgar autorizaciones para la prestación del servicio de transporte interprovincial regular de personas en vehículos de las Categorías M3 de menor tonelaje y M2 | 1 | 2012-01-15 to 2012-01-15 |
+| `ordenanza-regional-019-2011-graicr` | Ordenanza Regional N° 019-2011-GRAICR: Modifican Ordenanza N° 033-2007-GRA/CR mediante la cual se constituyó el Consejo Regional de Lucha Contra la Pobreza y la Desnutrición Infantil sobre la base del Acuerdo Político Regional CRECER Wari | 1 | 2011-12-25 to 2011-12-25 |
+| `ordenanza-regional-029-2011-gra-cr` | Ordenanza Regional N° 029-2011-GRA/CR: Aprueban trabajo concertado entre el Gobierno Regional y las Direcciones Regionales de Salud y Educación para la implementación de políticas públicas destinadas a prevenir y atender el embarazo en adolescentes,  en coordinación con diversas entidades | 1 | 2011-12-25 to 2011-12-25 |
+| `ordenanza-regional-028-2011-gra-cr` | Ordenanza Regional N° 028-2011-GRA/CR: Crean el Consejo Regional de Trabajo y Promoción del Empleo de Ayacucho | 1 | 2011-12-25 to 2011-12-25 |
+| `ordenanza-regional-027-2011-gra-cr` | Ordenanza Regional N° 027-2011-GRA/CR: Aprueban Lineamientos de Política Regional de la Formación Profesional en Ayacucho | 1 | 2011-12-25 to 2011-12-25 |
+| `ordenanza-regional-022-2011-gra-cr` | Ordenanza Regional N° 022-2011-GRA/CR: Aprueban Cuadro para Asignación de Personal y Cuadro Nominativo de Personal de la Dirección Regional de Salud Ayacucho - DIRESA 2011 | 1 | 2011-11-24 to 2011-11-24 |
+| `ordenanza-regional-018-2011-gra-cr` | Ordenanza Regional N° 018-2011-GRA/CR: Aprueban la creación  y conforman el Consejo Regional de Seguridad Vial | 1 | 2011-10-16 to 2011-10-16 |
+| `ordenanza-regional-013-2011-gra-cr` | Ordenanza Regional N° 013-2011-GRA/CR: Crean el Consejo Regional de Derechos Humanos y Reparaciones de Ayacucho | 1 | 2011-10-02 to 2011-10-02 |
+| `ordenanza-regional-017-2011-gra-cr` | Ordenanza Regional N° 017-2011-GRA/CR: Aprueban Plan Estratégico Institucional del Gobierno Regional de Ayacucho 2011-2014 | 1 | 2011-08-25 to 2011-08-25 |
+| `ordenanza-regional-015-2011-gra-cr` | Ordenanza Regional N° 015-2011-GRA/CR: Aprueban Organigrama Estructural y Reglamento de Organización y Funciones de la Dirección Regional de Trabajo y Promoción del Empleo Ayacucho - 2011 | 1 | 2011-08-04 to 2011-08-04 |
+| `ordenanza-regional-010-2011-gra-cr` | Ordenanza Regional N° 010-2011-GRA/CR: Aprueban Reglamento de Fiscalización del Consejo Regional del Gobierno Regional de Ayacucho | 1 | 2011-06-29 to 2011-06-29 |
+| `ordenanza-regional-012-2011-graicr` | Ordenanza Regional N° 012-2011-GRAICR: Disponen el uso obligatorio del Sombrero tipo Safari o de paño como parte del uniforme escolar en las instituciones educativas públicas y privadas de Ayacucho | 1 | 2011-06-21 to 2011-06-21 |
+| `ordenanza-regional-011-2011-graicr` | Ordenanza Regional N° 011-2011-GRAICR: Declaran como prioridad para el desarrollo social la cobertura de identificación y afiliación en el marco del Aseguramiento Universal de Salud con calidad y oportunidad en Ayacucho | 1 | 2011-06-19 to 2011-06-19 |
+| `ordenanza-regional-026-2010-gra-cr` | Ordenanza Regional N° 026-2010-GRA/CR: Disponen priorizar el Proyecto "Construcción Sistema Irrigación Integral Laguna Tajata: Umasi, Apongo, Raccaya, Taca y Canaria, Provincia Fajardo - Ayacucho" en la agenda del Gobierno Regional | 1 | 2011-04-03 to 2011-04-03 |
+| `ordenanza-regional-001-2011-gra-cr` | Ordenanza Regional N° 001-2011-GRA/CR: Aprueban denominación del Año Regional 2011 como "Año Regional del Centenario de Nacimiento de José María Arguedas Altamirano" | 1 | 2011-03-05 to 2011-03-05 |
+| `ordenanza-regional-030-2010-gra-cr` | Ordenanza Regional N° 030-2010-GRA/CR: Aprueban Cuadro para Asignación del Personal 2010 del Puericultorio Juan Andrés Vivanco Amorín , JAVA - Ayacucho 2010 | 1 | 2011-02-03 to 2011-02-03 |
+| `ordenanza-regional-025-2010-gra-cr` | Ordenanza Regional N° 025-2010-GRA/CR: Aprueban Organigrama Estructural y el ROF de la Casa Hogar "Juan Pablo II" de la provincia de Vilcashuamán | 1 | 2010-12-29 to 2010-12-29 |
+| `ordenanza-regional-024-2010-gra-cr` | Ordenanza Regional N° 024-2010-GRA/CR: Aprueban Organigrama Estructural y el ROF del Puericultorio Juan Andrés Vivanco Amorín "JAVA" Ayacucho | 1 | 2010-12-29 to 2010-12-29 |
+| `ordenanza-regional-029-2010-gra-cr` | Ordenanza Regional N° 029-2010-GRA/CR: Aprueban el "Plan Regional Contra la Violencia hacia la Mujer 2010-2015" | 1 | 2010-12-15 to 2010-12-15 |
+| `ordenanza-regional-027-2010-gra-cr` | Ordenanza Regional N° 027-2010-GRA/CR: Aprueban la creación del Sistema Regional de Prevención y Atención de la Violencia Familiar y Sexual de Ayacucho - SIREPAVFS y constituyen el Consejo Regional de Prevención y Atención de la Violencia Familiar y Sexual de Ayacucho - COREPAVFS | 1 | 2010-12-15 to 2010-12-15 |
+| `ordenanza-regional-019-2010-gra-cr` | Ordenanza Regional N° 019-2010-GRA/CR: Aprueban el Plan Regional de Igualdad de Oportunidades y Equidad de Género 2010-2020 de la Región Ayacucho | 1 | 2010-12-15 to 2010-12-15 |
+| `ordenanza-regional-022-2010-gra-cr` | Ordenanza Regional N° 022-2010-GRA/CR: Aprueban Texto Único de Procedimientos Administrativos de la Dirección Regional Agraria Ayacucho - 2010 | 1 | 2010-10-14 to 2010-10-14 |
+| `ordenanza-regional-013-2010-gra-cr` | Ordenanza Regional N° 013-2010-GRA/CR: Disponen que las entidades estatales reserven no menos del 40% de sus compras a las Micros y Pequeñas Empresas del ámbito del Gobierno Regional | 1 | 2010-08-27 to 2010-08-27 |
+| `ordenanza-regional-017-2010-gra-cr` | Ordenanza Regional N° 017-2010-GRA/CR: Aprueban Estructura Orgánica y el Reglamento de Organización y Funciones de la Dirección Regional  de Transportes y Comunicaciones - 2010 | 1 | 2010-08-27 to 2010-08-27 |
+| `ordenanza-regional-002-2010-gra-cr` | Ordenanza Regional N° 002-2010-GRA/CR: Modifican Reglamento Interno del Consejo Regional de Ayacucho | 1 | 2010-08-26 to 2010-08-26 |
+| `ordenanza-regional-008-2010-gra-cr` | Ordenanza Regional N° 008-2010-GRA/CR: Aprueban conformación del Equipo Técnico encargado de conducir y brindar el soporte técnico durante el Proceso del Presupuesto Participativo 2011 del Gobierno Regional de Ayacucho | 1 | 2010-07-29 to 2010-07-29 |
+| `ordenanza-regional-009-2010-gra-cr` | Ordenanza Regional N° 009-2010-GRA/CR: Crean el Consejo Regional de Fomento Artesanal - COREFAR Ayacucho | 1 | 2010-07-02 to 2010-07-02 |
+| `ordenanza-regional-021-2009-gra-cr` | Ordenanza Regional N° 021-2009-GRA/CR: Institucionalizan el Festival Regional de la Canción Ayacuchana "Buscando Nuevos Valores" | 1 | 2010-05-09 to 2010-05-09 |
+| `ordenanza-regional-023-2009-gra-cr` | Ordenanza Regional N° 023-2009-GRA/CR: Crean el Consejo Regional del Arte y la Cultura Ayacuchana | 1 | 2010-05-09 to 2010-05-09 |
+| `ordenanza-regional-029-2009-gra-cr` | Ordenanza Regional N° 029-2009-GRA/CR: Aprueban Estructura Orgánica y el Reglamento de Organización y Funciones de la Dirección Regional de Salud - 2009 | 1 | 2010-01-08 to 2010-01-08 |
+| `ordenanza-regional-017-2009-gra-cr` | Ordenanza Regional N° 017-2009-GRA/CR: Aprueban Organigrama Estructural y Reglamento de Organización y Funciones del Puericultorio "Juan Andrés Vivanco Amorín" de Ayacucho - 2009 | 1 | 2009-10-09 to 2009-10-09 |
+| `ordenanza-regional-013-2009-gra-cr` | Ordenanza Regional N° 013-2009-GRA/CR: Establecen disposiciones para la emisión de autorizaciones excepcionales a los vehículos de transporte interprovincial de pasajeros Camioneta Rural con un máximo límite de antigüedad de 20 años | 1 | 2009-08-09 to 2009-08-09 |
+| `ordenanza-regional-005-2009-gra-cr` | Ordenanza Regional N° 005-2009-GRA/CR: Aprueban Reglamento de Elecciones de Representantes de la Sociedad Civil ante el Consejo de Coordinación Regional - CCR del Gobierno Regional de Ayacucho | 1 | 2009-07-01 to 2009-07-01 |
+| `ordenanza-regional-009-2009-gra-cr` | Ordenanza Regional N° 009-2009-GRA/CR: Aprueban ampliación del número de integrantes del Equipo Técnico encargado de conducir y brindar el soporte técnico durante el Proceso del Presupuesto Participativo 2010 del Gobierno Regional de Ayacucho | 1 | 2009-06-27 to 2009-06-27 |
+| `ordenanza-regional-014-2009-gra-cr` | Ordenanza Regional N° 014-2009-GRA/CR: Aprueban Reglamento del Proceso de Presupuesto Participativo del Gobierno Regional de Ayacucho | 1 | 2009-06-27 to 2009-06-27 |
+| `ordenanza-regional-007-2009-gra-cr` | Ordenanza Regional N° 007-2009-GRA/CR: Disponen conformación de Mesas de Diálogo para la Prevención y Tratamiento de Controversias Territoriales y otros casos sobre Demarcación Territorial y declaran de interés y necesidad pública la aprobación del "Plan Regional de Organización Territorial y Fusión | 1 | 2009-05-01 to 2009-05-01 |
 
-The build made 149 commits:
+The build made 189 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 149 | first version of an act |
+| 189 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 149 laws in the record.
-- 298 tags.
+- 189 laws in the record.
+- 378 tags.
 
 ## Dates
 
@@ -189,7 +229,7 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9010bfc726b2101ee88e1bb2f5538c398126ab75bdf58be4cbf6d4519d16e48d` (2186675 bytes).
+- Corpus: sha256 `7a6c2cc2a5a243e3eb052eb965fe6d1aae84a24c62b423e3057a2fc59633ec82` (2584437 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
