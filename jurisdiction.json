@@ -1,0 +1,11 @@
+{
+  "path": "pe-aya",
+  "code": "PE-AYA",
+  "name": "Ayacucho",
+  "level": "region",
+  "parent": "pe",
+  "repo": "https://github.com/lexifina/peru-ayacucho-law",
+  "build": "built: 120 ordinances as published in El Peruano",
+  "language": "es",
+  "sources": 1
+}
