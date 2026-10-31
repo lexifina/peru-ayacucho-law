@@ -8,7 +8,7 @@ The text is in Spanish, exactly as El Peruano prints it.
 
 ## What this repository holds
 
-120 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
+149 ordinances so far, newest first, added in parts of about 50. Each is shown **as published in El Peruano** (the oldest version available from this source): El Peruano publishes no consolidated texts, so an ordinance that amends another is its own entry and its changes are not applied to the earlier text.
 
 | Folder | Ordinance | Date |
 | --- | --- | --- |
@@ -133,6 +133,35 @@ la Dirección Regional de Salud Ayacucho - DIRESA | in force 2 January 2021 |
 | `ordenanza-regional-003-2012-gra-cr/` | Ordenanza Regional N° 003-2012-GRA/CR: Aprueban Reglamento Interno del Consejo Regional de Ayacucho | in force 22 March 2012 |
 | `ordenanza-regional-021-2012-gra-cr/` | Ordenanza Regional N° 021-2012-GRA/CR: Aprueban Cuadro para Asignación de Personal - C.A.P. y Cuadro Nominativo de Personal - C.N.P. de la Dirección Regional  A… | in force 25 October 2012 |
 | `ordenanza-regional-010-2013-gra-cr/` | Ordenanza Regional N° 010-2013-GRA/CR: Aprueban Cuadro para Asignación del Personal - CAP y Cuadro Nominativo de Personal - CNP de la Dirección Regional de Salu… | in force 15 June 2013 |
+| `ordenanza-regional-014-2021-gra-cr/` | Ordenanza Regional N° 014-2021-GRA/CR: Declaran de interés regional y necesidad pública el fortalecimiento de la desconcentración presupuestaria a favor de las … | in force 24 December 2021 |
+| `ordenanza-regional-003-2021-gra-cr/` | Ordenanza Regional N° 003-2021-GRA/CR: Aprueban el “Plan de Acción Regional de Seguridad Ciudadana - 2021” | in force 18 July 2021 |
+| `ordenanza-regional-016-2020-gra-cr/` | Ordenanza Regional N° 016-2020-GRA/CR: Declaran la Reestructuración Integral del Programa Regional de Irrigación y Desarrollo Rural Integrado - PRIDER del Gobie… | in force 21 December 2020 |
+| `ordenanza-regional-016-2019-gra-cr/` | Ordenanza Regional N° 016-2019-GRA/CR: Declaran el mes de “Agosto Mes de la Memoria y Derechos Humanos en la Región Ayacucho” | in force 16 November 2020 |
+| `ordenanza-regional-019-2019-gra-cr/` | Ordenanza Regional N° 019-2019-GRA/CR: Aprueban la Ordenanza Regional que “Previene  y Prohíbe el Uso del Castigo Físico y Humillante Contra los Niños, Niñas y … | in force 22 February 2020 |
+| `ordenanza-regional-014-2019-gra-cr/` | Ordenanza Regional N° 014-2019-GRA/CR: Aprueban el Plan Regional de las Personas Adultas Mayores - PREPAM 2019 - 2024 de la Región Ayacucho | in force 13 January 2020 |
+| `ordenanza-regional-013-2019-gra-cr/` | Ordenanza Regional N° 013-2019-GRA/CR: Aprueban Cuadro para Asignación de Personal Provisional de la Dirección Regional Agraria Ayacucho - DRAA - 2019 | in force 9 January 2020 |
+| `ordenanza-regional-022-2018-gra-cr/` | Ordenanza Regional N° 022-2018-GRA/CR: Aprueban el Plan Regional de Prevención y Tratamiento del Consumo de Drogas en la Región Ayacucho 2018- 2021 | in force 6 April 2019 |
+| `ordenanza-regional-004-2018-gra-cr/` | Ordenanza Regional N° 004-2018-GRA/CR: Modifican el Artículo Quinto de la Ordenanza Regional N° 020-2017-GRA/CR | in force 7 June 2018 |
+| `ordenanza-regional-002-2017-gra-cr/` | Ordenanza Regional N° 002-2017-GRA/CR: Aprueban Reglamento del Proceso de Presupuesto Participativo para el Año Fiscal 2018 del Gobierno Regional de Ayacucho | in force 27 May 2017 |
+| `ordenanza-regional-020-2016-gra-cr/` | Ordenanza Regional N° 020-2016-GRA/CR: Declaran de interés y prioridad regional el Programa Regional de Siembra y Cosecha de Agua en el ámbito del Gobierno Regi… | in force 6 January 2017 |
+| `ordenanza-regional-012-2016-gra-cr/` | Ordenanza Regional N° 012-2016-GRA/CR: Aprueban la Estrategia Regional de Cambio Climático Ayacucho | in force 1 January 2017 |
+| `ordenanza-regional-005-2016-gra-cr/` | Ordenanza Regional N° 005-2016-GRA/CR: Aprueban el “Documento Prospectivo: Ayacucho 2030” | in force 17 June 2016 |
+| `ordenanza-regional-004-2016-gra-cr/` | Ordenanza Regional N° 004-2016-GRA/CR: Aprueban el “Plan de Desarrollo Regional Concertado 2016-2021” de la región Ayacucho | in force 17 June 2016 |
+| `ordenanza-regional-001-2016-gra-cr/` | Ordenanza Regional N° 001-2016-GRA/CR: Aprueban Reglamento del Proceso de Presupuesto Participativo para el Año Fiscal 2017 del Gobierno Regional de Ayacucho | in force 6 May 2016 |
+| `ordenanza-regional-002-2015-gra-cr/` | Ordenanza Regional N° 002-2015-GRA/CR: Aprueban el Cuadro para Asignación de Personal  - C.A.P. Provisional de la Dirección Regional de Salud Ayacucho - DIRESA … | in force 18 May 2015 |
+| `ordenanza-regional-001-2015-gra-cr/` | Ordenanza Regional N° 001-2015-GRA/CR: Aprueban el Reglamento del Proceso de Presupuesto Participativo para el Año Fiscal 2016 del Gobierno Regional de Ayacucho | in force 30 March 2015 |
+| `ordenanza-regional-020-2013-gra-cr/` | Ordenanza Regional N° 020-2013-GRA/CR: Modifican la Ordenanza Regional N° 002-2011-GRA/CR, mediante la cual se aprobó el TUPA del Gobierno Regional de Ayacucho … | in force 14 December 2013 |
+| `ordenanza-regional-019-2013-gra-cr/` | Ordenanza Regional N° 019-2013-GRA/CR: Aprueban la inserción del Tema de Comercio Exterior en los planes curriculares y/o itinerarios formativos de Institutos d… | in force 7 December 2013 |
+| `ordenanza-regional-009-2011-gra-cr/` | Ordenanza Regional N° 009-2011-GRA/CR: Aprueban Organigrama Estructural y Reglamento de Organización y Funciones - ROF de la Aldea Infantil "Virgen de las Nieve… | in force 10 November 2013 |
+| `ordenanza-regional-016-2013-gra-cr/` | Ordenanza Regional N° 016-2013-GRA/CR: Aprueban la implementación de la Certificación Ambiental y el Cumplimiento de la Ley del Sistema Nacional de Evaluación d… | in force 8 November 2013 |
+| `ordenanza-regional-014-2013-gra-cr/` | Ordenanza Regional N° 014-2013-GRA/CR: Aprueban el "Plan Regional de la Juventud de Ayacucho 2013 - 2024" | in force 25 October 2013 |
+| `ordenanza-regional-006-2012-gra-cr/` | Ordenanza Regional N° 006-2012-GRA/CR: Declaran la voluntad del Gobierno Regional de Ayacucho de constituir la "Mancomunidad Regional Apurímac - Ayacucho - Huan… | in force 23 June 2013 |
+| `ordenanza-regional-006-2013-gra-cr/` | Ordenanza Regional N° 006-2013-GRA/CR: Crean el Consejo Regional de Turismo - CORETUR del Gobierno Regional de Ayacucho | in force 16 June 2013 |
+| `ordenanza-regional-007-2013-gra-cr/` | Ordenanza Regional N° 007-2013-GRA/CR: Aprueban Estructura Orgánica, Manual de Operaciones, Cuadro para Asignación de Personal, Presupuesto Analítico de Persona… | in force 30 May 2013 |
+| `ordenanza-regional-030-2012-gra-cr/` | Ordenanza Regional N° 030-2012-GRA/CR: Aprueban la creación de la Unidad de Gestión Educativa Local - UGEL VRAE, que comprende diversos distritos de la margen i… | in force 26 May 2013 |
+| `ordenanza-regional-001-2013-gra-cr/` | Ordenanza Regional N° 001-2013-GRA/CR: Declaran de Prioridad la Lucha contra la Desnutrición Crónica Infantil en menores de 5 años y la implementación del Progr… | in force 22 March 2013 |
+| `ordenanza-regional-014-2012-gra-cr/` | Ordenanza Regional N° 014-2012-GRA/CR: Aprueban Estructura Orgánica y Reglamento de Organización y Funciones de la Dirección Regional de Producción - 2012 | in force 11 February 2013 |
+| `ordenanza-regional-032-2012-gra-cr/` | Ordenanza Regional N° 032-2012-GRA/CR: Aprueban Plan de Mediano Plazo en Educación 2012 - 2016 del Gobierno Regional de Ayacucho | in force 31 January 2013 |
 
 ## Source
 

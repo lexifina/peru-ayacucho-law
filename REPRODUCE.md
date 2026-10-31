@@ -135,20 +135,49 @@ la Dirección Regional de Salud Ayacucho - DIRESA | 1 | 2021-01-02 to 2021-01-02
 | `ordenanza-regional-003-2012-gra-cr` | Ordenanza Regional N° 003-2012-GRA/CR: Aprueban Reglamento Interno del Consejo Regional de Ayacucho | 1 | 2012-03-22 to 2012-03-22 |
 | `ordenanza-regional-021-2012-gra-cr` | Ordenanza Regional N° 021-2012-GRA/CR: Aprueban Cuadro para Asignación de Personal - C.A.P. y Cuadro Nominativo de Personal - C.N.P. de la Dirección Regional  Agraria | 1 | 2012-10-25 to 2012-10-25 |
 | `ordenanza-regional-010-2013-gra-cr` | Ordenanza Regional N° 010-2013-GRA/CR: Aprueban Cuadro para Asignación del Personal - CAP y Cuadro Nominativo de Personal - CNP de la Dirección Regional de Salud Ayacucho - DIRESA 2012 | 1 | 2013-06-15 to 2013-06-15 |
+| `ordenanza-regional-014-2021-gra-cr` | Ordenanza Regional N° 014-2021-GRA/CR: Declaran de interés regional y necesidad pública el fortalecimiento de la desconcentración presupuestaria a favor de las oficinas sub regionales del Gobierno Regional de Ayacucho | 1 | 2021-12-24 to 2021-12-24 |
+| `ordenanza-regional-003-2021-gra-cr` | Ordenanza Regional N° 003-2021-GRA/CR: Aprueban el “Plan de Acción Regional de Seguridad Ciudadana - 2021” | 1 | 2021-07-18 to 2021-07-18 |
+| `ordenanza-regional-016-2020-gra-cr` | Ordenanza Regional N° 016-2020-GRA/CR: Declaran la Reestructuración Integral del Programa Regional de Irrigación y Desarrollo Rural Integrado - PRIDER del Gobierno Regional de Ayacucho | 1 | 2020-12-21 to 2020-12-21 |
+| `ordenanza-regional-016-2019-gra-cr` | Ordenanza Regional N° 016-2019-GRA/CR: Declaran el mes de “Agosto Mes de la Memoria y Derechos Humanos en la Región Ayacucho” | 1 | 2020-11-16 to 2020-11-16 |
+| `ordenanza-regional-019-2019-gra-cr` | Ordenanza Regional N° 019-2019-GRA/CR: Aprueban la Ordenanza Regional que “Previene  y Prohíbe el Uso del Castigo Físico y Humillante Contra los Niños, Niñas y Adolescentes, en la Región Ayacucho” | 1 | 2020-02-22 to 2020-02-22 |
+| `ordenanza-regional-014-2019-gra-cr` | Ordenanza Regional N° 014-2019-GRA/CR: Aprueban el Plan Regional de las Personas Adultas Mayores - PREPAM 2019 - 2024 de la Región Ayacucho | 1 | 2020-01-13 to 2020-01-13 |
+| `ordenanza-regional-013-2019-gra-cr` | Ordenanza Regional N° 013-2019-GRA/CR: Aprueban Cuadro para Asignación de Personal Provisional de la Dirección Regional Agraria Ayacucho - DRAA - 2019 | 1 | 2020-01-09 to 2020-01-09 |
+| `ordenanza-regional-022-2018-gra-cr` | Ordenanza Regional N° 022-2018-GRA/CR: Aprueban el Plan Regional de Prevención y Tratamiento del Consumo de Drogas en la Región Ayacucho 2018- 2021 | 1 | 2019-04-06 to 2019-04-06 |
+| `ordenanza-regional-004-2018-gra-cr` | Ordenanza Regional N° 004-2018-GRA/CR: Modifican el Artículo Quinto de la Ordenanza Regional N° 020-2017-GRA/CR | 1 | 2018-06-07 to 2018-06-07 |
+| `ordenanza-regional-002-2017-gra-cr` | Ordenanza Regional N° 002-2017-GRA/CR: Aprueban Reglamento del Proceso de Presupuesto Participativo para el Año Fiscal 2018 del Gobierno Regional de Ayacucho | 1 | 2017-05-27 to 2017-05-27 |
+| `ordenanza-regional-020-2016-gra-cr` | Ordenanza Regional N° 020-2016-GRA/CR: Declaran de interés y prioridad regional el Programa Regional de Siembra y Cosecha de Agua en el ámbito del Gobierno Regional de Ayacucho | 1 | 2017-01-06 to 2017-01-06 |
+| `ordenanza-regional-012-2016-gra-cr` | Ordenanza Regional N° 012-2016-GRA/CR: Aprueban la Estrategia Regional de Cambio Climático Ayacucho | 1 | 2017-01-01 to 2017-01-01 |
+| `ordenanza-regional-005-2016-gra-cr` | Ordenanza Regional N° 005-2016-GRA/CR: Aprueban el “Documento Prospectivo: Ayacucho 2030” | 1 | 2016-06-17 to 2016-06-17 |
+| `ordenanza-regional-004-2016-gra-cr` | Ordenanza Regional N° 004-2016-GRA/CR: Aprueban el “Plan de Desarrollo Regional Concertado 2016-2021” de la región Ayacucho | 1 | 2016-06-17 to 2016-06-17 |
+| `ordenanza-regional-001-2016-gra-cr` | Ordenanza Regional N° 001-2016-GRA/CR: Aprueban Reglamento del Proceso de Presupuesto Participativo para el Año Fiscal 2017 del Gobierno Regional de Ayacucho | 1 | 2016-05-06 to 2016-05-06 |
+| `ordenanza-regional-002-2015-gra-cr` | Ordenanza Regional N° 002-2015-GRA/CR: Aprueban el Cuadro para Asignación de Personal  - C.A.P. Provisional de la Dirección Regional de Salud Ayacucho - DIRESA 2014 | 1 | 2015-05-18 to 2015-05-18 |
+| `ordenanza-regional-001-2015-gra-cr` | Ordenanza Regional N° 001-2015-GRA/CR: Aprueban el Reglamento del Proceso de Presupuesto Participativo para el Año Fiscal 2016 del Gobierno Regional de Ayacucho | 1 | 2015-03-30 to 2015-03-30 |
+| `ordenanza-regional-020-2013-gra-cr` | Ordenanza Regional N° 020-2013-GRA/CR: Modifican la Ordenanza Regional N° 002-2011-GRA/CR, mediante la cual se aprobó el TUPA del Gobierno Regional de Ayacucho y Direcciones Regionales Sectoriales | 1 | 2013-12-14 to 2013-12-14 |
+| `ordenanza-regional-019-2013-gra-cr` | Ordenanza Regional N° 019-2013-GRA/CR: Aprueban la inserción del Tema de Comercio Exterior en los planes curriculares y/o itinerarios formativos de Institutos de Educación Superior, CETPROS y CEBAS de la Región Ayacucho | 1 | 2013-12-07 to 2013-12-07 |
+| `ordenanza-regional-009-2011-gra-cr` | Ordenanza Regional N° 009-2011-GRA/CR: Aprueban Organigrama Estructural y Reglamento de Organización y Funciones - ROF de la Aldea Infantil "Virgen de las Nieves" de Cora Cora | 1 | 2013-11-10 to 2013-11-10 |
+| `ordenanza-regional-016-2013-gra-cr` | Ordenanza Regional N° 016-2013-GRA/CR: Aprueban la implementación de la Certificación Ambiental y el Cumplimiento de la Ley del Sistema Nacional de Evaluación del Impacto Ambiental en la Región Ayacucho | 1 | 2013-11-08 to 2013-11-08 |
+| `ordenanza-regional-014-2013-gra-cr` | Ordenanza Regional N° 014-2013-GRA/CR: Aprueban el "Plan Regional de la Juventud de Ayacucho 2013 - 2024" | 1 | 2013-10-25 to 2013-10-25 |
+| `ordenanza-regional-006-2012-gra-cr` | Ordenanza Regional N° 006-2012-GRA/CR: Declaran la voluntad del Gobierno Regional de Ayacucho de constituir la "Mancomunidad Regional Apurímac - Ayacucho - Huancavelica" | 1 | 2013-06-23 to 2013-06-23 |
+| `ordenanza-regional-006-2013-gra-cr` | Ordenanza Regional N° 006-2013-GRA/CR: Crean el Consejo Regional de Turismo - CORETUR del Gobierno Regional de Ayacucho | 1 | 2013-06-16 to 2013-06-16 |
+| `ordenanza-regional-007-2013-gra-cr` | Ordenanza Regional N° 007-2013-GRA/CR: Aprueban Estructura Orgánica, Manual de Operaciones, Cuadro para Asignación de Personal, Presupuesto Analítico de Personal y Escala Remunerativa del Programa Regional de Irrigaciones y Desarrollo Rural Integrado - PRIDER | 1 | 2013-05-30 to 2013-05-30 |
+| `ordenanza-regional-030-2012-gra-cr` | Ordenanza Regional N° 030-2012-GRA/CR: Aprueban la creación de la Unidad de Gestión Educativa Local - UGEL VRAE, que comprende diversos distritos de la margen izquierda del Valle del Río Apurímac y  Ene - Ayacucho | 1 | 2013-05-26 to 2013-05-26 |
+| `ordenanza-regional-001-2013-gra-cr` | Ordenanza Regional N° 001-2013-GRA/CR: Declaran de Prioridad la Lucha contra la Desnutrición Crónica Infantil en menores de 5 años y la implementación del Programa de Alimentación Escolar Qali Warma en la Región Ayacucho | 1 | 2013-03-22 to 2013-03-22 |
+| `ordenanza-regional-014-2012-gra-cr` | Ordenanza Regional N° 014-2012-GRA/CR: Aprueban Estructura Orgánica y Reglamento de Organización y Funciones de la Dirección Regional de Producción - 2012 | 1 | 2013-02-11 to 2013-02-11 |
+| `ordenanza-regional-032-2012-gra-cr` | Ordenanza Regional N° 032-2012-GRA/CR: Aprueban Plan de Mediano Plazo en Educación 2012 - 2016 del Gobierno Regional de Ayacucho | 1 | 2013-01-31 to 2013-01-31 |
 
-The build made 120 commits:
+The build made 149 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 120 | first version of an act |
+| 149 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-31.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 120 laws in the record.
-- 240 tags.
+- 149 laws in the record.
+- 298 tags.
 
 ## Dates
 
@@ -160,13 +189,13 @@ When a law gives no date of its own, the default rule applies: Constitución Pol
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `0953f6ac025b3c663b030e8a1cd0cdf7c659e06fc4722bff72c315a01681972b` (1833486 bytes).
+- Corpus: sha256 `9010bfc726b2101ee88e1bb2f5538c398126ab75bdf58be4cbf6d4519d16e48d` (2186675 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-120 versions of 120 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

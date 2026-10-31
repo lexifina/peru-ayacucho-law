@@ -154,6 +154,40 @@
     "ordenanza-regional-021-2012-gra-cr"
    ],
    "sha256": "194ccee90a380610d030dae69acc92545e9b42dc096aec207ac9f6e8cb1e300e"
+  },
+  "33-runner-01.json": {
+   "acts": [
+    "ordenanza-regional-001-2013-gra-cr",
+    "ordenanza-regional-001-2015-gra-cr",
+    "ordenanza-regional-001-2016-gra-cr",
+    "ordenanza-regional-002-2015-gra-cr",
+    "ordenanza-regional-002-2017-gra-cr",
+    "ordenanza-regional-003-2021-gra-cr",
+    "ordenanza-regional-004-2016-gra-cr",
+    "ordenanza-regional-004-2018-gra-cr",
+    "ordenanza-regional-005-2016-gra-cr",
+    "ordenanza-regional-006-2012-gra-cr",
+    "ordenanza-regional-006-2013-gra-cr",
+    "ordenanza-regional-007-2013-gra-cr",
+    "ordenanza-regional-009-2011-gra-cr",
+    "ordenanza-regional-012-2016-gra-cr",
+    "ordenanza-regional-013-2019-gra-cr",
+    "ordenanza-regional-014-2012-gra-cr",
+    "ordenanza-regional-014-2013-gra-cr",
+    "ordenanza-regional-014-2019-gra-cr",
+    "ordenanza-regional-014-2021-gra-cr",
+    "ordenanza-regional-016-2013-gra-cr",
+    "ordenanza-regional-016-2019-gra-cr",
+    "ordenanza-regional-016-2020-gra-cr",
+    "ordenanza-regional-019-2013-gra-cr",
+    "ordenanza-regional-019-2019-gra-cr",
+    "ordenanza-regional-020-2013-gra-cr",
+    "ordenanza-regional-020-2016-gra-cr",
+    "ordenanza-regional-022-2018-gra-cr",
+    "ordenanza-regional-030-2012-gra-cr",
+    "ordenanza-regional-032-2012-gra-cr"
+   ],
+   "sha256": "96697e58e1b5b2b52e8a0f1cd12b0d698bf6ab492dd7a18bffcc1748fed08e6d"
   }
  },
  "schema": 1
